@@ -7,10 +7,6 @@ This project is an end-to-end testing suite for the [Restful Booker API](https:/
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Tests](#running-the-tests)
-- [Project Structure](#project-structure)
-- [Test Scenarios](#test-scenarios)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -36,3 +32,9 @@ Before running the tests, ensure you have the following installed:
    ```sh
    git clone https://github.com/DonLMJ/restAssured-testng-lombok.git
    cd restAssured-testng-lombok
+
+## Running the Tests
+
+1. **Run the command**:
+   ```sh
+   mvn test
