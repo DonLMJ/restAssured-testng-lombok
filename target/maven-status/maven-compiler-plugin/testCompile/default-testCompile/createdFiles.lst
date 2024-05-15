@@ -1,0 +1,15 @@
+com/example/tests/UserData.class
+com/example/tests/UserData$UserDataBuilder.class
+com/example/tests/PartialBookingData$PartialBookingDataBuilder.class
+com/example/tests/BookAPITest.class
+com/example/tests/BookingData.class
+com/example/tests/BookingDataBuilder.class
+com/example/tests/TokenBuilder.class
+com/example/tests/PartialBookingData.class
+com/example/tests/BookingDates$BookingDatesBuilder.class
+com/example/tests/BookingDates.class
+com/example/tests/Tokencreds$TokencredsBuilder.class
+com/example/tests/BaseSetup.class
+com/example/tests/BookingData$BookingDataBuilder.class
+com/example/tests/Tokencreds.class
+com/example/tests/RestfulBookerE2ETests.class
